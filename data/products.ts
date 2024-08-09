@@ -20,6 +20,12 @@ export const products = [
     logo: "/products/tryintent.com/logo.png",
   },
   {
+    title: "YouProTab - Your Productivity Tab",
+    description: "Declutter web and enhance your productivity.",
+    href: "https://www.youprotab.com?ref=indiehackersarmy",
+    logo: "https://cdn.youprotab.com/logo.svg",
+  },
+  {
     title: "Hoverify",
     description: "All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level.",
     href: "https://tryhoverify.com/",
