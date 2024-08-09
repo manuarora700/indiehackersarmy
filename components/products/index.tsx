@@ -12,6 +12,7 @@ export const Products = () => {
         {products.map((product) => (
           <Link
             href={product.href}
+            target="_blank"
             className="p-4 rounded-xl bg-neutral-950 border border-neutral-900"
             key={product.title}
           >
