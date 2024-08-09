@@ -31,4 +31,10 @@ export const products = [
     href: "https://tryhoverify.com/",
     logo: "https://tryhoverify.com/images/logo.png",
   },
+  {
+    title: "GetaResume",
+    description: "A resume to portfolio website generator that can generate your online portfolio website within seconds.",
+    href: "https://getaresu.me/",
+    logo: "https://getaresu.me/images/logo.png",
+  }
 ];
