@@ -36,5 +36,12 @@ export const products = [
     description: "A resume to portfolio website generator that can generate your online portfolio website within seconds.",
     href: "https://getaresu.me/",
     logo: "https://getaresu.me/images/logo.png",
-  }
+  },
+  {
+    title: "Gesturs UI",
+    description:
+      "A collection of beautiful, free, and open-source React Animated components.",
+    href: "https://ui.gesturs.com/",
+    logo: "https://ui.gesturs.com/gesturs.svg",
+  },
 ];
