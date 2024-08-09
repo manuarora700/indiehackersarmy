@@ -19,4 +19,10 @@ export const products = [
     href: "https://tryintent.com/",
     logo: "/products/tryintent.com/logo.png",
   },
+  {
+    title: "YouProTab - Your Productivity Tab",
+    description: "Declutter web and enhance your productivity.",
+    href: "https://www.youprotab.com?ref=indiehackersarmy",
+    logo: "https://cdn.youprotab.com/logo.svg",
+  },
 ];

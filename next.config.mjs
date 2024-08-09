@@ -4,6 +4,7 @@ const nextConfig = {
     remotePatterns: [
       { hostname: "ui.aceternity.com" },
       { hostname: "sprintsocial.ai" },
+      { hostname: "cdn.youprotab.com" },
     ],
   },
 };
