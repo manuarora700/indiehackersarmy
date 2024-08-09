@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: "Indie Hackers Army",
     description:
       "A closed community of founders and builders, focused on building and sharing knowledge.",
-    images: ["https://indiehackersarmy.com/banner.png"],
+    images: "https://indiehackersarmy.com/banner.png",
   },
 };
 
