@@ -19,4 +19,10 @@ export const products = [
     href: "https://tryintent.com/",
     logo: "/products/tryintent.com/logo.png",
   },
+  {
+    title: "Hoverify",
+    description: "All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level.",
+    href: "https://tryhoverify.com/",
+    logo: "https://tryhoverify.com/images/logo.png",
+  },
 ];
