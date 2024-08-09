@@ -25,4 +25,10 @@ export const products = [
     href: "https://www.youprotab.com?ref=indiehackersarmy",
     logo: "https://cdn.youprotab.com/logo.svg",
   },
+  {
+    title: "Hoverify",
+    description: "All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level.",
+    href: "https://tryhoverify.com/",
+    logo: "https://tryhoverify.com/images/logo.png",
+  },
 ];
