@@ -36,6 +36,12 @@ export const products = [
 		logo: 'https://getaresu.me/images/logo.png',
 	},
 	{
+		title: 'Gesturs UI',
+		description: 'A collection of beautiful, free, and open-source React Animated components.',
+		href: 'https://ui.gesturs.com/',
+		logo: 'https://ui.gesturs.com/gesturs.svg',
+	},
+	{
 		title: 'FYG - Find your Gig',
 		description: 'Tinder for finding your next gig.',
 		href: 'https://fyg.app',
