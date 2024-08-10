@@ -6,6 +6,7 @@ const nextConfig = {
       { hostname: "sprintsocial.ai" },
       { hostname: "cdn.youprotab.com" },
       { hostname: "getaresu.me" },
+      { hostname: "https://ui.gesturs.com" },
     ],
   },
 };
