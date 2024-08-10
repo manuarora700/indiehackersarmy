@@ -26,6 +26,20 @@ export const products = [
     logo: "https://cdn.youprotab.com/logo.svg",
   },
   {
+    title: "FileMagnet",
+    description:
+      "FileMagnet is an easy and free file converter to convert your images/videos on the fly using ffmpeg",
+    href: "https://filemagnet.pranavrajveer.com/",
+    logo: "https://github.com/user-attachments/assets/227defa4-7e55-4184-b118-a2b35ffbac7a",
+  },
+  {
+    title: "Authify",
+    description:
+      "Authify is a Next-Auth Template that lets you set-up your auth-pipeline in a flash",
+    href: "https://authify.pranavrajveer.com/",
+    logo: "https://github.com/user-attachments/assets/674f2f88-ebc2-472c-a38e-489523755ed3",
+  },
+  {
     title: "Hoverify",
     description: "All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level.",
     href: "https://tryhoverify.com/",
