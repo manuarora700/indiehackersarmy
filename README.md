@@ -47,3 +47,5 @@ To add your project to the community products list, please follow these steps:
   logo: "/path-to-your-product-logo.png"
 }
 ```
+
+++ deploy
