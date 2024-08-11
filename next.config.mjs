@@ -8,6 +8,8 @@ const nextConfig = {
 			{ hostname: 'getaresu.me' },
 			{ hostname: 'https://ui.gesturs.com' },
 			{ hostname: 'fyg.app' },
+      { hostname: "webui.gopx.dev" },
+      { hostname: "tryhoverify.com" },
 		],
 	},
 };
