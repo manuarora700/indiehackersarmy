@@ -52,5 +52,11 @@ export const products = [
     description: "Beautiful UI components for web at your fingertips.",
     href: "https://webui.gopx.dev",
     logo: "https://webui.gopx.dev/webui-dark-rounded.png",
-  },
+	},
+	{
+    title: "Plan My Growth",
+    description: "Tailored growth plans, career paths, and a standout professional profile.",
+    href: "https://planmygrowth.in",
+    logo: "https://www.planmygrowth.in/logo.png"
+  }
 ];
