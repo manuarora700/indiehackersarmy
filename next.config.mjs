@@ -9,7 +9,8 @@ const nextConfig = {
 			{ hostname: 'https://ui.gesturs.com' },
 			{ hostname: 'fyg.app' },
       { hostname: "webui.gopx.dev" },
-      { hostname: "tryhoverify.com" },
+			{ hostname: "tryhoverify.com" },
+			{ hostname: "planmygrowth.in" },
 		],
 	},
 };
