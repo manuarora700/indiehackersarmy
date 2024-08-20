@@ -72,4 +72,10 @@ export const products = [
     href: "https://ui.metamorix.com",
     logo: "https://ui.metamorix.com/favicon.ico",
   },
+  {
+    title: "Today List",
+    description: "A todo list for Slack with one day deadlines.",
+    href: "https://todaylist.carrd.co/",
+    logo: "https://todaylist.carrd.co/assets/images/image04.jpg?v20902614940451",
+  },
 ];

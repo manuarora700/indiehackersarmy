@@ -13,6 +13,7 @@ const nextConfig = {
 			{ hostname: 'www.planmygrowth.in' },
 			{ hostname: 'github.com' },
 			{ hostname: 'ui.metamorix.com' },
+			{ hostname: 'todaylist.carrd.co' },
 		],
 	},
 };
