@@ -12,6 +12,7 @@ const nextConfig = {
 			{ hostname: 'tryhoverify.com' },
 			{ hostname: 'www.planmygrowth.in' },
 			{ hostname: 'github.com' },
+			{ hostname: 'ui.metamorix.com' },
 		],
 	},
 };
