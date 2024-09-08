@@ -7,6 +7,12 @@ export const products = [
     logo: "https://ui.aceternity.com/logo.png",
   },
   {
+    title: "X0-GPT",
+    description: "x0-GPT is a free AI tool that lets you interact with websites, PDFs, and documents in real-time. It provides quick answers and insights directly from your chosen sources.",
+    href: "https://x0-gpt.devwtf.in",
+    logo: "/products/x0-gpt.png",
+  },
+  {
     title: "Sprint Social",
     description: "Grow your LinkedIn effortlessly in just 7 min/day.",
     href: "https://sprintsocial.ai",
