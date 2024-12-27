@@ -73,10 +73,10 @@ export const products = [
     logo: "https://www.fyg.app/fyg-logo.svg",
   },
   {
-    title: "GOPX WEBUI",
+    title: "Eclair UI",
     description: "Beautiful UI components for web at your fingertips.",
-    href: "https://webui.gopx.dev",
-    logo: "https://webui.gopx.dev/webui-dark-rounded.png",
+    href: "https://eclairui.gopx.dev",
+    logo: "https://eclairui.gopx.dev/eui-r.png",
   },
   {
     title: "Plan My Growth",
