@@ -98,4 +98,11 @@ export const products = [
     href: "https://todaylist.carrd.co/",
     logo: "https://todaylist.carrd.co/assets/images/image04.jpg?v20902614940451",
   },
+
+{
+  title: "Wishboard",
+  description: "create, share, and collect heartfelt wishes for special occasions.",
+  href: "https://wishify.kartikey.tech/",
+  logo: "https://i.postimg.cc/RZT0fkDK/logo1.png"
+},
 ];
