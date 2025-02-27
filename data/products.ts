@@ -98,4 +98,16 @@ export const products = [
     href: "https://todaylist.carrd.co/",
     logo: "https://todaylist.carrd.co/assets/images/image04.jpg?v20902614940451",
   },
+  {
+    title: "NoteSphere",
+    description: "An open-source platform for your all-in-one platform for organizing thoughts, collaborating with teams, and bringing ideas to life.",
+    href: "https://notion.deepakbhardwaj.me/",
+    logo: "https://notion.deepakbhardwaj.me/logo.svg",
+  },
+  {
+    title: "BoardSphere",
+    description: "Boardsphere is a powerful online collaborative whiteboard tool designed for teams to brainstorm, plan, and execute ideas seamlessly.",
+    href: "https://miro.deepakbhardwaj.me/",
+    logo: "https://miro.deepakbhardwaj.me/_next/image?url=%2Flogo.png&w=96&q=75",
+  },
 ];

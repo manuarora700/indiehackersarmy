@@ -14,6 +14,8 @@ const nextConfig = {
 			{ hostname: 'github.com' },
 			{ hostname: 'ui.metamorix.com' },
 			{ hostname: 'todaylist.carrd.co' },
+			{hostname: 'notion.deepakbhardwaj.me'},
+			{ hostname: 'miro.deepakbhardwaj.me'}
 		],
 	},
 };
