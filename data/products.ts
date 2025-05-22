@@ -98,4 +98,11 @@ export const products = [
     href: "https://todaylist.carrd.co/",
     logo: "https://todaylist.carrd.co/assets/images/image04.jpg?v20902614940451",
   },
+  {
+    title: "SVGLogo",
+    description:
+      "Collection of 4,100+ SVG Brand Logos",
+    href: "https://svglogo.co",
+    logo: "https://svglogo.co/logo.svg",
+  },
 ];
