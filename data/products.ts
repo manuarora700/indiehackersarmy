@@ -39,6 +39,12 @@ export const products = [
     logo: "https://github.com/user-attachments/assets/227defa4-7e55-4184-b118-a2b35ffbac7a",
   },
   {
+  title: "Crux",
+  description: "CRUX is a sleek and responsive web app designed to help students explore Indian colleges using metrics like ORCR, NIRF rankings, and more. With a modern UI and simple UX, it makes college discovery engaging and efficient.",
+  href: "https://crux.ix.tc",
+  logo: "https://crux.ix.tc/logo.png"
+},
+  {
     title: "Authify",
     description:
       "Authify is a Next-Auth Template that lets you set-up your auth-pipeline in a flash",
