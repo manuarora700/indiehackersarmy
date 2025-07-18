@@ -98,4 +98,11 @@ export const products = [
     href: "https://todaylist.carrd.co/",
     logo: "https://todaylist.carrd.co/assets/images/image04.jpg?v20902614940451",
   },
+  {
+    title: "Relient",
+    description: "Client portal for agencies to share tasks, leads, timelines, and receive payments.",
+    href: "https://relient.in",
+    logo: "https://relient.in/relient.png"
+  }
+  
 ];
