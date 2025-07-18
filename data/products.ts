@@ -13,6 +13,13 @@ export const products = [
     logo: "/products/x0-gpt.png",
   },
   {
+    title: "Thumbnaily AI",
+    description:
+      "Generate engaging and Youtube friendly thumbnails using AI.",
+    href: "https://thumbnaily.in",
+    logo: "/products/thumbnaily.png",
+  },
+  {
     title: "Sprint Social",
     description: "Grow your LinkedIn effortlessly in just 7 min/day.",
     href: "https://sprintsocial.ai",
