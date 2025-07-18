@@ -98,4 +98,10 @@ export const products = [
     href: "https://todaylist.carrd.co/",
     logo: "https://todaylist.carrd.co/assets/images/image04.jpg?v20902614940451",
   },
+  {
+    title: "CalculatorBit",
+    description: "Your Ultimate Calculator",
+    href: "https://calculatorbit.com/",
+    logo: "https://calculatorbit.com/favicon.svg"
+  }
 ];
