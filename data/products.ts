@@ -98,4 +98,10 @@ export const products = [
     href: "https://todaylist.carrd.co/",
     logo: "https://todaylist.carrd.co/assets/images/image04.jpg?v20902614940451",
   },
+  {
+    title: "Shop on Whatsapp",
+    description: "Why make them click, when they'd rather chat?",
+    href: 'https://www.shoponwhatsapp.com/',
+    logo: 'https://www.shoponwhatsapp.com/logo.png'
+  }
 ];

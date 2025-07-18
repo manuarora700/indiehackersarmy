@@ -14,6 +14,7 @@ const nextConfig = {
 			{ hostname: 'github.com' },
 			{ hostname: 'ui.metamorix.com' },
 			{ hostname: 'todaylist.carrd.co' },
+			{hostname: 'www.shoponwhatsapp.com'}
 		],
 	},
 };
