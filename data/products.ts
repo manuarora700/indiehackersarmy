@@ -32,6 +32,12 @@ export const products = [
     logo: "https://cdn.youprotab.com/logo.svg",
   },
   {
+    title: "Caricature Maker",
+    description: "Create hilarious and funny caricatures from your photos",
+    href: "https://caricaturemaker.net/",
+    logo: "https://caricaturemaker.net/logo.jpeg",
+  },
+  {
     title: "FileMagnet",
     description:
       "FileMagnet is an easy and free file converter to convert your images/videos on the fly using ffmpeg",
