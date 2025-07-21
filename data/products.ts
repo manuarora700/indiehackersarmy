@@ -98,4 +98,9 @@ export const products = [
     href: "https://todaylist.carrd.co/",
     logo: "https://todaylist.carrd.co/assets/images/image04.jpg?v20902614940451",
   },
+  {
+	  title:"ArabicWorksheet",
+	  description:"Learn Saudi Arabic in days, not months. We create AI based learning experience for our users, and create customized lessons and exercises based on your level and interests.",
+	  href="https://arabicworksheet.com",
+	  logo:"https://arabicworksheet.com/_next/image?url=%2Fimages%2Flogo.png&w=640&q=75"
 ];
