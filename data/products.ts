@@ -98,4 +98,11 @@ export const products = [
     href: "https://todaylist.carrd.co/",
     logo: "https://todaylist.carrd.co/assets/images/image04.jpg?v20902614940451",
   },
+  {
+    title: "Screen Break",
+    description:
+      "A gentle macOS menu bar break reminder with guided full-screen rests, smart idle reset, busy auto-defer, multilingual UI, and friendly limits on skipping.",
+    href: "https://screen-break-mac.netlify.app/",
+    logo: "https://screen-break-mac.netlify.app/assets/screen-break-logo.svg",
+  },
 ];
